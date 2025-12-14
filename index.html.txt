@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NotMyProblem Coin ($NMP) - The Ultimate Meme</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="container">
+            <img src="logo.png" alt="NotMyProblem Coin Logo" class="coin-logo">
+            <h1>NotMyProblem Coin</h1>
+            <h2>"It's not my problem, it's the world's problem!"</h2>
+            <p class="ticker">Ticker: $NMP</p>
+            <a href="[Link to Raydium/Pump.fun Purchase Page]" target="_blank" class="cta-button">Buy $NMP Now!</a>
+        </div>
+    </header>
+
+    <section class="about-section">
+        <div class="container">
+            <h2>What is $NMP?</h2>
+            <p>NotMyProblem Coin is a fun, community-driven meme token launched on the Solana blockchain. We embody the spirit of blissful apathy towards life's challenges. Join the movement that knows when to say: "Not My Problem!"</p>
+        </div>
+    </section>
+
+    <section class="info-section">
+        <div class="container">
+            <h2>Contract and Tokenomics</h2>
+            <div class="info-card">
+                <h3>Solana Contract Address</h3>
+                <p class="contract-address">[Paste Your SPL Token Contract Address Here]</p>
+                <a href="https://solscan.io/token/[Contract Address]" target="_blank" class="link-button">Verify on Solscan</a>
+            </div>
+            <div class="info-card">
+                <h3>Total Supply</h3>
+                <p class="supply">1,000,000,000 (1 Billion $NMP)</p>
+            </div>
+            <div class="info-card">
+                <h3>Liquidity Status</h3>
+                <p>Initial Liquidity Pool (LP) tokens have been burned/locked to ensure a secure environment (No Rug Pull).</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="roadmap-section">
+        <div class="container">
+            <h2>Roadmap 🗺️</h2>
+            <ul>
+                <li><strong>Phase 1: Launch & Foundation:</strong> Contract deployment, liquidity provisioning, and website launch. (Done!)</li>
+                <li><strong>Phase 2: Community & Hype:</strong> Aggressive marketing campaigns, Telegram/Discord community building, and meme generation.</li>
+                <li><strong>Phase 3: Listings:</strong> Application for CoinGecko and CoinMarketCap listings.</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 NotMyProblem Coin. All Rights Reserved.</p>
+            <div class="social-links">
+                <a href="[Your Twitter/X Link]" target="_blank">Twitter/X</a> |
+                <a href="[Your Telegram Link]" target="_blank">Telegram</a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
